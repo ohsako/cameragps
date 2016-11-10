@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="420dpi"
+    format="7"
+    timestamp="62426221219702"
+    token="6997518090756392757" >
+
+    <task
+        name="javac"
+        duration="1011" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="216" />
+    <task
+        name="verifier"
+        duration="71" />
+
+    <artifact
+        location="D:\AndroidStudioProjects\cameragps\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="62426221219702" >
+        <artifact
+            location="D:\AndroidStudioProjects\cameragps\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
